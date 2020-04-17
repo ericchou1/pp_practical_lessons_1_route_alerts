@@ -1,0 +1,6 @@
+---
+inventory: 
+    options:
+        host_file: "hosts.yaml"
+
+
