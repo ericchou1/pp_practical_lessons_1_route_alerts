@@ -1,0 +1,16 @@
+
+- Python.org Python for Beginners
+https://www.python.org/about/gettingstarted/
+
+- Introductory Books
+https://wiki.python.org/moin/IntroductoryBooks
+	
+	- Head First Programming by David Griffiths and Paul Barry
+	- Automate the Boring Stuff with Python by Al Sweigart
+	- Learn Python 3 the Hard Way by Zed Shaw (not on list)
+
+- My Courses on INE, Packt Publishing, etc. 
+https://networkautomation.ninja/portfolio/
+
+
+

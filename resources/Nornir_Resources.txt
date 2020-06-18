@@ -1,0 +1,4 @@
+- Nornir Documentation and Tutorial
+
+https://pynet.twb-tech.com/blog/nornir/intro.html
+https://nornir.readthedocs.io/en/latest/
