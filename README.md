@@ -1,2 +1,4 @@
-# pp_practical_lessons_1_route_alerts
-Packt Pusher Practical Python Lessons 1: Route Alerts
+# Practical Python Lessons for Networking
+This is a code repository for Packet Pusher's Ignite Coures Library Course
+
+https://ignition.packetpushers.net/courses/practical-python-lessons-for-networking/
